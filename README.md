@@ -24,6 +24,15 @@ Welcome to **CraftyCommerce** – your one-stop shop for all your craft needs.
 
 To get started with **CraftyCommerce**, clone the repository and follow the setup instructions provided in the documentation.
 
+## Product Listing
+The product listing feature allows users to browse and search for products in the catalog, helping them find items of interest efficiently.
+
+## Shopping Cart
+The shopping cart feature enables users to add, remove, and manage items before proceeding to checkout, ensuring a smooth purchasing process.
+
+## Customer Reviews
+Customer reviews provide valuable feedback and insights from other buyers, helping users make informed decisions about their purchases.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
